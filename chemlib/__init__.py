@@ -13,4 +13,4 @@ from chemlib.electrochemistry import electrolysis, F, Galvanic_Cell
 
 from chemlib.thermochemistry import Combustion, combustion_analysis
 
-from chemlib.inorganicchemistry import Combination
+from chemlib.synthesis import Combination
